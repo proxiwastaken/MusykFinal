@@ -1,9 +1,16 @@
+# Introduction
 Musyk is a VR application designed for Valve Index controllers and SteamVR-compatible headsets. The application is developed in Unity, placing the user in a minimalist virtual studio. The application is designed to allow production of simple chord sequences and drum loops, giving the user the ability to experiment with basic Digital Audio Workstation concepts in a virtual room-scale environment. 
 
-V Video Demonstration V
+# Compilation/Install
+I wont provide in-depth instructions on how to Compile and run it yourself, but it should all be able to be opened in the Unity Editor, and all dependencies should be downloaded automatically.
 
+A compiled version can be easily downloaded from the Releases section on the right. Keep in mind there may be a couple bugs, this was developed in a few months as my Honours Project.
+
+
+# Video Demonstration
 [![Musyk Video Demonstration](https://img.youtube.com/vi/m3k2jRdeUuk/0.jpg)](https://www.youtube.com/watch?v=m3k2jRdeUuk)
 
+# Controls
 Locomotion, Interaction 
 
 The player can teleport throughout the virtual environment by pushing up on the right joystick, as well as physically walking in the room-scale area. Objects can be grabbed by physically using the controller grip and activated with the trigger. Both controllers have lasers that allow the player to grab and activate objects from a distance. Pushing the right controller’s joystick left or right will also snap-turn the player 30 degrees, and pulling the joystick back will snap the player backwards, as an accessibility feature. 
