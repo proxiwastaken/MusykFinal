@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c476efc97dabba448d27bc29e4cb294, type: 3}
+  m_Name: MyInstrumentBank
+  m_EditorClassIdentifier: 
+  instruments:
+  - instrumentName: Piano
+    notes:
+    - {fileID: 8300000, guid: 867a4325b7831d34d85ad76ced2438ab, type: 3}
+    - {fileID: 8300000, guid: fea4a8b8680ed9846bb4ed3740c7c332, type: 3}
+    - {fileID: 8300000, guid: 7c0f89e2c5583ee4b90b62c2f01c7469, type: 3}
+    - {fileID: 8300000, guid: 7a67f942e888aac4689a2e4036f2e5d9, type: 3}
+    - {fileID: 8300000, guid: 31b1148ec16856c4b862067062d40962, type: 3}
+    - {fileID: 8300000, guid: 2ed5389953353224c91f71318a9c402e, type: 3}
+    - {fileID: 8300000, guid: 1a7b00472a3140b44b9b9f5fc5340e0b, type: 3}
+    - {fileID: 8300000, guid: 715b158ced990ce4c82bae602dddb87e, type: 3}
+    - {fileID: 8300000, guid: 4b1bfe8cade38124baf5a5413d3b220c, type: 3}
+    - {fileID: 8300000, guid: 0c4820e41fe504b41a4c3b3ef7548efa, type: 3}
+    - {fileID: 8300000, guid: 1976c43ca07700f4fa9660d1b774445d, type: 3}
+    - {fileID: 8300000, guid: b594b70df606b224aa97847ad23479f4, type: 3}
+  - instrumentName: E Piano
+    notes:
+    - {fileID: 8300000, guid: c8f81947948e0cd47b80110f6a65e140, type: 3}
+    - {fileID: 8300000, guid: 822957fd76ab0f04b89d055027b9bf6e, type: 3}
+    - {fileID: 8300000, guid: 2c627c74dc29e1d458f9a52a9678b319, type: 3}
+    - {fileID: 8300000, guid: 17d6f376f7f5fcb4aa98286092d1ae1e, type: 3}
+    - {fileID: 8300000, guid: 2afb441bcb2ffeb4c8efa9fbdf1edbc9, type: 3}
+    - {fileID: 8300000, guid: 0f13fdafc6280fc4f933c890ca25301e, type: 3}
+    - {fileID: 8300000, guid: cebc50936c303e34880e7bf7597674fe, type: 3}
+    - {fileID: 8300000, guid: 66c428d42a6ffb4428eed91c67bc571b, type: 3}
+    - {fileID: 8300000, guid: a70e17125530dfd4c8b7146b73d138bc, type: 3}
+    - {fileID: 8300000, guid: f9ae409b4b8c1344b87bbdc6e8d24151, type: 3}
+    - {fileID: 8300000, guid: 5c28836f47bad7244aebbb7a889369e8, type: 3}
+    - {fileID: 8300000, guid: ddabc28269dc0ac44bb95d9b613a0d6f, type: 3}
