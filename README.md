@@ -1,5 +1,6 @@
 Musyk is a VR application designed for Valve Index controllers and SteamVR-compatible headsets. The application is developed in Unity, placing the user in a minimalist virtual studio. The application is designed to allow production of simple chord sequences and drum loops, giving the user the ability to experiment with basic Digital Audio Workstation concepts in a virtual room-scale environment. 
 
+V Video Demonstration V
 [![Musyk Video Demonstration](https://img.youtube.com/vi/m3k2jRdeUuk/0.jpg)](https://www.youtube.com/watch?v=m3k2jRdeUuk)
 
 Locomotion, Interaction 
